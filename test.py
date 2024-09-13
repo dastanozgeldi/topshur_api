@@ -14,5 +14,5 @@ def test_transcribe_audio(file_path):
 
 
 if __name__ == "__main__":
-    test_audio_path = "dataset/2.wav"
+    test_audio_path = "1.wav"
     test_transcribe_audio(test_audio_path)

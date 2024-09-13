@@ -12,7 +12,7 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-pipe = pipeline(model="openai/whisper-tiny")
+pipe = pipeline(model="qymyz/whisper-tiny-russian-dysarthria")
 
 
 class TranscriptionResult(BaseModel):
