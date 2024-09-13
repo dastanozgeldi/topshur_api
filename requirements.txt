@@ -1,0 +1,8 @@
+fastapi
+numpy
+pydantic
+Requests
+soundfile
+torch
+transformers
+uvicorn
